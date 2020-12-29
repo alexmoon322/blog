@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alexmoon322.github.io/blog/sitemap.xml
