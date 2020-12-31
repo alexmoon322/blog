@@ -3,29 +3,75 @@
     <title>Alex Moon</title>
     <link href="https://alexmoon322.github.io/blog/feed.xml" rel="self" />
     <link href="https://alexmoon322.github.io/blog" />
-    <updated>2020-12-29T00:13:54-05:00</updated>
+    <updated>2020-12-30T20:24:15-05:00</updated>
     <author>
         <name>Alex Moon</name>
     </author>
     <id>https://alexmoon322.github.io/blog</id>
 
     <entry>
-        <title>Test Run</title>
+        <title>Test #3</title>
         <author>
             <name>Alex Moon</name>
         </author>
-        <link href="https://alexmoon322.github.io/blog/test-run.html"/>
-        <id>https://alexmoon322.github.io/blog/test-run.html</id>
+        <link href="https://alexmoon322.github.io/blog/test-3/"/>
+        <id>https://alexmoon322.github.io/blog/test-3/</id>
 
-        <updated>2020-12-29T00:13:54-05:00</updated>
+        <updated>2020-12-30T20:24:15-05:00</updated>
             <summary>
                 <![CDATA[
-                    The sheep ran far. Ishan Vepa. Chennyj
+                        <img src="https://alexmoon322.github.io/blog/media/posts/4/IMG_5006.JPG" alt="" />
+                    PEW PEW PEW. HELLO MICHIGAN
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The sheep ran far. Ishan Vepa. Chennyj</p>
+                    <img src="https://alexmoon322.github.io/blog/media/posts/4/IMG_5006.JPG" alt="" />
+                <p>PEW PEW PEW. HELLO MICHIGAN</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test #2</title>
+        <author>
+            <name>Alex Moon</name>
+        </author>
+        <link href="https://alexmoon322.github.io/blog/test-2/"/>
+        <id>https://alexmoon322.github.io/blog/test-2/</id>
+
+        <updated>2020-12-30T20:22:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alexmoon322.github.io/blog/media/posts/3/demonslayer-2.png" alt="" />
+                    Hello. I am just writing this just to keep testing things out.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://alexmoon322.github.io/blog/media/posts/3/demonslayer-2.png" alt="" />
+                <p>Hello. I am just writing this just to keep testing things out.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Testing New Blog System</title>
+        <author>
+            <name>Alex Moon</name>
+        </author>
+        <link href="https://alexmoon322.github.io/blog/testing-new-blog-system/"/>
+        <id>https://alexmoon322.github.io/blog/testing-new-blog-system/</id>
+
+        <updated>2020-12-30T20:20:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alexmoon322.github.io/blog/media/posts/2/demonslayer.png" alt="" />
+                    Hello. My name is Alex Moon. This is a test for my&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://alexmoon322.github.io/blog/media/posts/2/demonslayer.png" alt="" />
+                <p>Hello. My name is Alex Moon. This is a test for my blog website. I wonder how it's going to work out.</p>
             ]]>
         </content>
     </entry>
